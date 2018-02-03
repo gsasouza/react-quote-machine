@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+.DS_Store
+dist
+admin
+console
+.idea
+yarn-error.log
+
+graphql.*.json
+
+.env
+__generated__/
